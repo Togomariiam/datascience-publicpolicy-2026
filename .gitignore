@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+docs/tracking_progress/
+notebooks/hw/hw_2/hw_2_answers.ipynb
 reports/
 archive/
 docs/hw/
